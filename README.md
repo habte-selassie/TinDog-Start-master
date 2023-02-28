@@ -23,7 +23,7 @@ Finally, start the server by running the following command:
 sql
 Copy code
 npm start
-The application should now be accessible at https://steady-moonbeam-fc6471.netlify.app/
+The application should now be accessible at https://idyllic-arithmetic-450916.netlify.app/
 
 
 # Technologies Used
